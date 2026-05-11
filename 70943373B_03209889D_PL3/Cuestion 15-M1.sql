@@ -21,11 +21,11 @@ SELECT A FROM ValorA;
 --WRITE(A)
 UPDATE ValorA
 SET A = 140;
-
+--BLOQUEADO!!
 
 --AL M2
 
-
+--DESBLOQUEADO
 --C = C - A = 0.6 - 140
 
 --WRITE(C)
